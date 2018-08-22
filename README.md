@@ -16,7 +16,7 @@ To setup, follow these steps below.
 
 Files setup:
   - Download zip files and unzip the folder after download
-  - Import Automation java project into IDE
+  - Import java project into IDE
   - Ensure that your Java JDK is added to the project
 
 
