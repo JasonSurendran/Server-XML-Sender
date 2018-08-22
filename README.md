@@ -34,5 +34,5 @@ To run from IDE, follow the steps below:
 
 
 ## Note
--Server and Client both use port 5000. 
--Navigate to the ServerMain and the ClientMain files to change port if needed
+   - Server and Client both use port 5000. 
+   - Navigate to the ServerMain and the ClientMain files to change port if needed
