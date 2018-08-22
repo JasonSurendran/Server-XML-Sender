@@ -1,6 +1,7 @@
 # Server-XML-Sender
 
-This is an networking program that creates a creates a “server” and a “client”, which both the localhost.
+This is an networking program that creates a “server” and a “client”, which both the localhost.
+The program utilizes TCP/IP protocol style standards in the connections.
 When both the server and client are connected, the client is prompted with a input asking for a tag word. 
 This input is echoed to the server which searches api.flicker for sample xml data which contains the
 inputted tag before echoing it back to the client.  
