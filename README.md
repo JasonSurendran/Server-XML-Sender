@@ -17,8 +17,7 @@ To setup, follow these steps below.
 Files setup:
   - Download zip files and unzip the folder after download
   - Import Automation java project into IDE
-  - Ensure that your Java JDK is added to the Automation project
-  - Add all JAR files in `lib` folder to class build  path of project if applicable
+  - Ensure that your Java JDK is added to the project
 
 
 ## Running (From IDE)
@@ -34,5 +33,5 @@ To run from IDE, follow the steps below:
 
 
 ## Note
-   - Server and Client both use port 5000. 
+   - Server and Client both use Port 5000. 
    - Navigate to the ServerMain and the ClientMain files to change port if needed
