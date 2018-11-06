@@ -6,7 +6,7 @@ When both the server and client are connected, the client is prompted with a inp
 This input is echoed to the server which searches api.flicker for sample xml data which contains the
 inputted tag before echoing it back to the client.  
 
-## Pre-requisites 
+## Prerequisites 
 
 - Java JDK (Any version from Java 8 or above works)
 - Java IDE (Any Java IDE works)
